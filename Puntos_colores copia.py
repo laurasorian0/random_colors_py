@@ -3,7 +3,6 @@ import random
 import turtle as turtle_module
 
 colour_list = ["green", "pink", "yellow", "blue", "brown"]
-colour_list2 = [(43, 2, 176), (79, 253, 174), (226, 149, 109), (230, 225, 253), (160, 3, 82), (4, 211, 101), (3, 138, 64)]
 rgb_values = [
     (255, 0, 0),   # Rojo
     (0, 255, 0),   # Verde
